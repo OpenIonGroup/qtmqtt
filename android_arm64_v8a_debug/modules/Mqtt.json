@@ -1,0 +1,19 @@
+{
+    "name": "Mqtt",
+    "repository": "qtmqtt",
+    "version": "6.7.0",
+    "built_with": {
+        "android": {
+            "api_version": "android-34",
+            "ndk": {
+                "version": "25.1.8937393"
+            }
+        },
+        "compiler_id": "Clang",
+        "compiler_target": "aarch64-none-linux-android23",
+        "compiler_version": "14.0.6",
+        "cross_compiled": true,
+        "target_system": "Android",
+        "architecture": "arm64"
+    }
+}
